@@ -60,3 +60,9 @@ python app.py
   <b>Built by:</b> <a href="https://huggingface.co/LADDOO22212015">LADDOO22212015</a><br>
   <i>Forging the absolute future of open-source autonomous agents.</i>
 </div>
+
+
+### 🧠 Preferred Models
+> - `mistralai/Mixtral-8x22B-Instruct-v0.1` — Massive context window for complex document reasoning.
+> - `Qwen/Qwen2-72B-Instruct` — Advanced quantitative analysis and financial reasoning.
+> - `meta-llama/Meta-Llama-3-70B-Instruct` — Complex multi-step agentic reasoning and planning.
